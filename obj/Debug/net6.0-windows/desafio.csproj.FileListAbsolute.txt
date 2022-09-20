@@ -1,0 +1,54 @@
+C:\Users\laboratorio\source\repos\desafio\bin\Debug\net6.0-windows\desafio.exe
+C:\Users\laboratorio\source\repos\desafio\bin\Debug\net6.0-windows\desafio.deps.json
+C:\Users\laboratorio\source\repos\desafio\bin\Debug\net6.0-windows\desafio.runtimeconfig.json
+C:\Users\laboratorio\source\repos\desafio\bin\Debug\net6.0-windows\desafio.dll
+C:\Users\laboratorio\source\repos\desafio\bin\Debug\net6.0-windows\desafio.pdb
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.Form1.resources
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.dll
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\refint\desafio.dll
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.pdb
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\ref\desafio.dll
+C:\Users\laboratorio\source\repos\desafio\obj\Debug\net6.0-windows\desafio.Properties.Resources.resources
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.Form1.resources
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.Properties.Resources.resources
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.GenerateResource.cache
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.dll
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\refint\desafio.dll
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.pdb
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.exe
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.deps.json
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.runtimeconfig.json
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.dll
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.pdb
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\ref\desafio.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.exe
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.deps.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\bin\Debug\net6.0-windows\desafio.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.Form1.resources
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.Properties.Resources.resources
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.GenerateResource.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\refint\desafio.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\desafio.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\desafio_pesquisa_ordenacao-main\desafio\obj\Debug\net6.0-windows\ref\desafio.dll
